@@ -5,4 +5,4 @@ The app developed for the first part of the assignment is avalilable at: https:/
 
 The presentation is available at: http://rpubs.com/wmoukhaiber/413829
 
-Files for the presentation are avalilable on the GitHub: https://github.com/wmoukhaiber/Shiny-Application-and-reproducible-pitch.
+Files for the presentation are avalilable on the GitHub: https://github.com/wmoukhaiber/Shiny-Application-and-reproducible-pitch..
