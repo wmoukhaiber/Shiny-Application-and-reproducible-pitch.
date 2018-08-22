@@ -3,6 +3,7 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is avalilable at: https://wassimm.shinyapps.io/MYCar/
 
-The presentation is available at: http://rpubs.com/wmoukhaiber/413829
+The presentation is available at:http://rpubs.com/wmoukhaiber/413833
 
-Files for the presentation are avalilable on the GitHub: https://github.com/wmoukhaiber/Shiny-Application-and-reproducible-pitch..
+Files for the presentation are avalilable on the GitHub: https://github.com/wmoukhaiber/Shiny-Application-and-reproducible-pitch.
+
